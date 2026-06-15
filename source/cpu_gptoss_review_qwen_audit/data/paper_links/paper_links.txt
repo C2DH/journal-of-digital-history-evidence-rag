@@ -1,0 +1,3 @@
+# Add one paper link per line. GitHub blob links are accepted and converted to raw links automatically.
+# Example:
+# https://raw.githubusercontent.com/USER/REPO/main/paper_001.ipynb

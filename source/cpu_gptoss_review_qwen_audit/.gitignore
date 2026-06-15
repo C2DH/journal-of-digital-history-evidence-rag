@@ -1,0 +1,33 @@
+# Environment
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Large models
+models/*
+!models/.gitkeep
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Runtime inputs and outputs
+data/review_pdfs_upload/*
+!data/review_pdfs_upload/.gitkeep
+data/papers_raw/*
+!data/papers_raw/.gitkeep
+data/papers_text/*
+!data/papers_text/.gitkeep
+data/review_pdfs_organized/*
+!data/review_pdfs_organized/.gitkeep
+data/processed_reviews/*
+!data/processed_reviews/.gitkeep
+data/vector_db/*
+!data/vector_db/.gitkeep
+outputs/*
+!outputs/.gitkeep
+
+# Keep paper link template
+!data/paper_links/paper_links.txt

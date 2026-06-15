@@ -1,0 +1,14 @@
+# CPU-only requirements
+python-dotenv>=1.0.1
+requests>=2.32.0
+tqdm>=4.66.0
+pypdf>=5.0.0
+nbformat>=5.10.4
+beautifulsoup4>=4.12.3
+sentence-transformers>=3.0.0
+qdrant-client>=1.12.0
+numpy>=1.26.0
+pandas>=2.2.0
+huggingface-hub>=0.24.0
+llama-cpp-python>=0.3.7
+openpyxl>=3.1.2
