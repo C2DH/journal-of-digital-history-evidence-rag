@@ -5,6 +5,14 @@
 An evidence-grounded **Retrieval-Augmented Generation (RAG)** workspace for [Journal of Digital History (JDH)](https://journalofdigitalhistory.org/en/) papers.  
 The system supports semantic chunking, vector indexing, retrieval, and LLM-based inference for paper-level review auditing.
 
+
+## Paper
+
+This repository accompanies the preliminary arXiv paper:
+
+**Towards an Interactive Evidence-RAG Peer-Review Workspace for the Journal of Digital History**  
+arXiv: [2606.25837](https://arxiv.org/abs/2606.25837)
+
 ## 📌 Project Overview
 
 This project builds an **Evidence-RAG system for JDH review auditing**.
